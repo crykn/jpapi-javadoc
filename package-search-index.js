@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"de.damios.jpapi.core"},{"l":"de.damios.jpapi.exception"},{"l":"de.damios.jpapi.model"},{"l":"de.damios.jpapi.ressource"}]
